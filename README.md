@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Emanuel Malungo👋
 
 🎓 Estudante na 42 School  
 🚀 Apaixonado por desenvolvimento de software e inovação  
@@ -6,7 +6,6 @@
 
 ## Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Projetos Destacados
 - [Projeto 1](https://github.com/usuario/projeto1): Breve descrição do projeto.
