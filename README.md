@@ -10,7 +10,6 @@
 - 💻 Apaixonado por programação e desenvolvimento de software
 - 🌐 Sempre aprendendo novas tecnologias e linguagens
 - 🚀 Trabalhando em projetos inovadores
-## 🛠️ Tecnologias e Ferramentas
 
 ## 42 Common Core Student
 
