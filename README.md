@@ -14,7 +14,7 @@
 
 <td>
 
-| [Libft](https://github.com/pasqualerossi/Libft) | [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line) | [Printf](https://github.com/pasqualerossi/Printf) | [Push_Swap](https://github.com/pasqualerossi/Push_Swap) | [MiniTalk](https://github.com/pasqualerossi/MiniTalk) | [So_Long](https://github.com/pasqualerossi/So_Long) | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide) |
+| [Libft]() | [Get_Next_Line]() | [Printf]() | [Push_Swap]() | [MiniTalk]() | [So_Long]() | [Born2BeRoot]() |
 |--|--|--|--|--|--|--|
 
 </td>
